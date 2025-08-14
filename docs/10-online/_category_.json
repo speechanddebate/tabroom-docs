@@ -1,0 +1,9 @@
+{
+  "label": "Online Events",
+  "position": 11,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Online events"
+  }
+}

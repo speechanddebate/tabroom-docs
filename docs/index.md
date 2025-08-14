@@ -32,16 +32,16 @@ Webinar](https://www.speechanddebate.org/creating-linking-account-tabroom/)
 
 [How To Register For A Tournament](registration)
 
-[Tournament Quick Start](quick-start)
+[Tournament Quick Start](overview/quick-start)
 
-[Tournament Checklist](checklist)
+[Tournament Checklist](overview/checklist)
 
-[New: Enabling Web Push Notifications to replace Text
-Blasts](push-notifications)
+[Enabling Web Push Notifications to replace Text
+Blasts](https://docs.google.com/document/d/12jVaG0oITTU2gsOwMc3Fs5TY0GUCC0ekq5RsLD0EPjI)
 
-[New: Speech doc sharing on share.tabroom.com](https://share.tabroom.com)
+[Speech doc sharing on share.tabroom.com](settings/tabroom-share)
 
-[Videos: How to use Tabroom](videos)
+[Usage Videos](videos)
 
 ## Overview
 
@@ -100,19 +100,19 @@ appear when you hover over each of these tabs.
 
 ### Public Info
 
-[Calendars](calendars) - Viewing tournament information on
+[Calendars](public/calendars) - Viewing tournament information on
 the main Tabroom calendar, circuit calendars, or your upcoming
 tournament list.
 
-[Tournament Info](tournament-info) - Finding public
+[Tournament Info](public/tournament-info) - Finding public
 information about tournaments, invitations, entries, and judges.
 
-[Public Results](public-results) - Where to find results from
+[Public Results](public/public-results) - Where to find results from
 completed or ongoing tournaments.
 
-[Live Updates](live-updates) - Configuring your account to
+[Live Updates](public/live-updates) - Configuring your account to
 receive "Live Updates" about pairings and results via email/text, for a
 student, judge, or school.
 
-[Paradigms](paradigms) - Viewing, uploading, and editing
+[Paradigms](public/paradigms) - Viewing, uploading, and editing
 judge paradigms.

@@ -1,7 +1,7 @@
 {
   "label": "Your Tabroom Account",
   "position": 3,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index",
     "description": "Learn how to manage your Tabroom account"

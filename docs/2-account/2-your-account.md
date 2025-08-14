@@ -139,10 +139,9 @@ confirmed. Check your inbox for a confirmation email about your account.
 <img src="/screenshots/Screen_Shot_2021-07-01_at_10.54.04_AM.png"
 title="Screen_Shot_2021-07-01_at_10.54.04_AM.png" width="700" />
 
-## Classrooms.cloud & The Casewiki
+## openCaselist and classrooms.cloud
 
-Your Tabroom account can be used to access both Classrooms.cloud and the
-NDCA casewiki. If your password ever stops working to allow you access
+Your Tabroom account can be used to access both the caselist at opencaselist.com and classrooms.cloud. If your password ever stops working to allow you access
 to either service, click the "resync" button on your Tabroom profile and
 try logging in again.
 <img src="/screenshots/Screen_Shot_2021-05-02_at_12.54.34_PM.png" title="Screen_Shot_2021-05-02_at_12.54.34_PM.png" />
