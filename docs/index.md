@@ -20,7 +20,7 @@ Speech & Debate Association.
 If you have a troubleshooting issue, the first place you should look is
 the:
 
-[Frequently Asked Questions](FAQ)
+[Frequently Asked Questions](faq)
 
 For first-time Tabroom users, check out these sections of the manual:
 
@@ -30,18 +30,18 @@ Doc)](/uploads/Creating_and_Connecting_Account_Tabroom_Lisa_Webinar_(1).pdf)
 [Creating And Linking Your School Video
 Webinar](https://www.speechanddebate.org/creating-linking-account-tabroom/)
 
-[How To Register For A Tournament](Registration)
+[How To Register For A Tournament](registration)
 
-[Tournament Quick Start](Tournament_Quick_Start)
+[Tournament Quick Start](quick-start)
 
-[Tournament Checklist](Tournament_Checklist)
+[Tournament Checklist](checklist)
 
 [New: Enabling Web Push Notifications to replace Text
-Blasts](Push_Notifications)
+Blasts](push-notifications)
 
 [New: Speech doc sharing on share.tabroom.com](https://share.tabroom.com)
 
-[Videos: How to use Tabroom](Videos:_How_to_use_Tabroom)
+[Videos: How to use Tabroom](videos)
 
 ## Overview
 
@@ -50,43 +50,43 @@ things you do on Tabroom.
 
 ### Your Tabroom Account
 
-[Students](Students) - Navigating Tabroom features as a
+[Students](/account/students) - Navigating Tabroom features as a
 student.
 
-[Coaches](Coaches) - Navigating Tabroom features as a coach.
+[Coaches](/account/coaches) - Navigating Tabroom features as a coach.
 
-[Judges](Judges) - Navigating Tabroom features as a judge.
+[Judges](/account/judges) - Navigating Tabroom features as a judge.
 
 ### Administer a School/Circuit
 
-[School Administration](School_Administration) - Everything
+[School Administration](school-administration) - Everything
 you need to know about managing your school in Tabroom - student/judge
 rosters, linking to your NSDA account, joining circuits, registering for
 tournaments, and accessing your school results.
 
-[Registration](Registration) - How to register for a
+[Registration](registration) - How to register for a
 tournament on Tabroom.
 
-[Competitor Signups](Competitor_Signups) - New feature
+[Competitor Signups](competitor-signups) - New feature
 allowing competitors to self register for tournaments, with coach
 confirmation and optional parental notifications.
 
-[Prefs](Prefs) - Filling out a pref sheet for mutually
+[Prefs](prefs) - Filling out a pref sheet for mutually
 preferred judging.
 
-[Circuit Administration](Circuit_Administration) - If you're
+[Circuit Administration](circuit-administration) - If you're
 a circuit administrator, this will explain how to approve tournaments,
 communicate with member schools, and fix tournament results.
 
 [Viewing Results & Online
-Ballots](Viewing_Results_&_Online_Ballots) - How to see
+Ballots](viewing-results) - How to see
 tournament results as a coach and access online ballots as a judge.
 
-[Register for Nationals (Coach)](Nationals_Registration) -
+[Register for Nationals (Coach)](nationals-registration) -
 How to register for the NSDA National Tournament in Tabroom.
 
 [District Chair Nationals
-Guide](District_Chair_Nationals_Guide) - How to post your
+Guide](district-chair-nationals-guide) - How to post your
 district results to Nationals so coaches can register, register WSD
 teams, and add Congress legislation.
 
@@ -100,19 +100,19 @@ appear when you hover over each of these tabs.
 
 ### Public Info
 
-[Calendars](Calendars) - Viewing tournament information on
+[Calendars](calendars) - Viewing tournament information on
 the main Tabroom calendar, circuit calendars, or your upcoming
 tournament list.
 
-[Tournament Info](Tournament_Info) - Finding public
+[Tournament Info](tournament-info) - Finding public
 information about tournaments, invitations, entries, and judges.
 
-[Public Results](Public_Results) - Where to find results from
+[Public Results](public-results) - Where to find results from
 completed or ongoing tournaments.
 
-[Live Updates](Live_Updates) - Configuring your account to
+[Live Updates](live-updates) - Configuring your account to
 receive "Live Updates" about pairings and results via email/text, for a
 student, judge, or school.
 
-[Paradigms](Paradigms) - Viewing, uploading, and editing
+[Paradigms](paradigms) - Viewing, uploading, and editing
 judge paradigms.

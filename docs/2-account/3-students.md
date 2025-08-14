@@ -1,18 +1,14 @@
 ---
-sidebar_position: 1
-id: checklist
-title: Student Account
-
+title: Students
+slug: students
 ---
+
 ## Entries
 
 ### Current
 
-<figure>
 <img src="/screenshots/Screen_Shot_2023-03-06_at_8.31.33_AM.png"
 title="Screen_Shot_2023-03-06_at_8.31.33_AM.png" width="500" />
-<figcaption>Screen_Shot_2023-03-06_at_8.31.33_AM.png</figcaption>
-</figure>
 
 This tab will show competitor information for the tournament currently
 happening in real time. Information won’t appear on this screen until
@@ -56,11 +52,8 @@ tournament enables those options.
 
 ### Future
 
-<figure>
 <img src="/screenshots/Students_-_Future_Entries.png"
 title="Students_-_Future_Entries.png" />
-<figcaption>Students_-_Future_Entries.png</figcaption>
-</figure>
 
 This tab will show competitors the tournaments they are signed up to
 attend at future dates. Information won’t appear on this screen until
@@ -87,10 +80,7 @@ has denied your registration for the tournament.
 
 ### Signups
 
-<figure>
 <img src="/screenshots/Students_-_Signup.png" title="Students_-_Signup.png" />
-<figcaption>Students_-_Signup.png</figcaption>
-</figure>
 
 This tab will show competitors any tournament their advisor has made
 available for signup. This tab won’t appear if your advisor has not
@@ -115,11 +105,8 @@ wants to attend the tournament. More information will be found in our
 
 ### Results
 
-<figure>
 <img src="/screenshots/Results_Screenshot_1.png" title="Results_Screenshot_1.png"
 width="500" />
-<figcaption>Results_Screenshot_1.png</figcaption>
-</figure>
 
 This tab shows you the results of all the tournaments a competitor has
 attended and their results. Results will only appear here once the
@@ -142,11 +129,8 @@ document you will see those results.
 
 ### Results Screen
 
-<figure>
 <img src="/screenshots/Results_screen_screenshot.png"
 title="Results_screen_screenshot.png" />
-<figcaption>Results_screen_screenshot.png</figcaption>
-</figure>
 
 This screen indicates the result(s) of individual rounds a competitor
 competed in at a tournament.
@@ -169,11 +153,8 @@ competitors to review after the round.
 
 ### NSDA
 
-<figure>
 <img src="/screenshots/Screen_Shot_2023-03-11_at_2.09.54_PM.png"
 title="Screen_Shot_2023-03-11_at_2.09.54_PM.png" />
-<figcaption>Screen_Shot_2023-03-11_at_2.09.54_PM.png</figcaption>
-</figure>
 
 This tab shows you the competitors NSDA credentials. On the right side
 the competitors name, \# of merit points, and eligibility for districts
@@ -188,10 +169,7 @@ degree was issued.
 
 ## Standing Conflicts
 
-<figure>
 <img src="/screenshots/Standing_Conflicts.png" title="Standing_Conflicts.png" />
-<figcaption>Standing_Conflicts.png</figcaption>
-</figure>
 
 This page allows competitors to enter “standing conflicts” against
 individuals they believe would be biased or unfairly able to judge them
@@ -211,10 +189,7 @@ standing conflicts against.
 
 ## Parent Notifications
 
-<figure>
-<img src="/screenshots/Parent_notifcations.png" title="Parent_notifcations.png" />
-<figcaption>Parent_notifcations.png</figcaption>
-</figure>
+<img src="/screenshots/parent-notifications.png" title="parent-notifications.png" />
 
 Parent notifications allow competitors to enter their parents email
 address to receive memos and messages when they sign up for a tournament

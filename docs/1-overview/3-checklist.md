@@ -1,8 +1,6 @@
 ---
-sidebar_position: 4
-slug: checklist
-id: checklist
 title: Tournament Checklist
+slug: checklist
 ---
 
 This is a general chronological checklist for running a tournament on
@@ -10,7 +8,7 @@ Tabroom. It's not comprehensive, but it should help remind you of things
 you probably want to do at each stage of the tournament. For a more
 extensive explanation of each item, see the relevant section of the full
 manual. If you're not an experienced tabber, you should start with the
-[Tournament Quick Start](Tournament_Quick_Start) instead.
+[Tournament Quick Start](quick-start) instead.
 
 You might want to print off a copy of this checklist, and then check off
 each item as you complete it or decide it's not applicable to your

@@ -1,0 +1,1 @@
+1.  REDIRECT [Settings/Tournament](Settings/Tournament "wikilink")
