@@ -92,7 +92,7 @@ First, add students to your Student Roster. Then, from the list of
 tournaments in your circuit, click the Entry link next to the tournament
 you want to register for.If you don't see the tournament you want to
 register for, make sure your school is in the correct Circuit. For a
-detailed walkthrough, see [Registration](Registration "wikilink").
+detailed walkthrough, see [Registration](Registration).
 
 ### I don't see the tournament I want to register for in the list.
 
@@ -119,7 +119,7 @@ Application account, then either import new students from your NSDA
 roster, or link up existing students. You'll use the "NSDA Points"
 section of the sidebar from your Student Roster. For more information,
 see [School
-Administration](School_Administration#Linking_to_your_NSDA_Roster "wikilink").
+Administration](School_Administration#Linking_to_your_NSDA_Roster).
 
 ## Results
 
@@ -304,7 +304,7 @@ Published to "On."
 ##### What do the MPJ Placement Weights mean?
 
 For a full explanation, see the section on [MPJ Placement
-Weights](Judge_Groups#MPJ_Placement_Weights "wikilink").
+Weights](Judge_Groups#MPJ_Placement_Weights).
 
 ### Can I use leftover judges from one judge group in an event assigned to a different judge group, such as using leftover Varsity judges in a separate JV judge group?
 

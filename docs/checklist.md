@@ -10,15 +10,13 @@ Tabroom. It's not comprehensive, but it should help remind you of things
 you probably want to do at each stage of the tournament. For a more
 extensive explanation of each item, see the relevant section of the full
 manual. If you're not an experienced tabber, you should start with the
-[Tournament Quick Start](Tournament_Quick_Start "wikilink") instead.
+[Tournament Quick Start](Tournament_Quick_Start) instead.
 
 You might want to print off a copy of this checklist, and then check off
 each item as you complete it or decide it's not applicable to your
 tournament. Going roughly in the order presented here is recommended -
 it helps avoid problems if you follow advice like configuring judge
 groups before events, for example.
-
-<div id="csswrapper">
 
 ## As Early As Possible
 
@@ -32,8 +30,6 @@ groups before events, for example.
 
 - Tournament Setup - go through each page of the Settings menu and
   decide if each available option applies to you.
-
-<!-- -->
 
 - Settings - Tournament
   - Name & Info Tab - upload your Invitation document, and if
@@ -53,8 +49,6 @@ groups before events, for example.
     (such as a mailing address), registration, or waitlist admission,
     set them here.
 
-<!-- -->
-
 - Settings - Rules & Results
   - Decide if the built-in Tiebreak sets are sufficient, or if your
     league rules require setting up your own. Create them if necessary.
@@ -66,8 +60,6 @@ groups before events, for example.
     Sweepstakes tab.
   - If your tournament gives NDCA Points or TOC bids, configure them on
     the "Points & Bids" tab.
-
-<!-- -->
 
 - Settings - Judges (Repeat for each judge group)
   - Create judge groups. Most tournaments will have one judge group for
@@ -104,8 +96,6 @@ groups before events, for example.
     such as "Saturday Only" judges, configure part-timer blocks.
   - Pools Tab - Create a Judge Pool for each elim round, which you will
     auto-populate later with only obligated judges.
-
-<!-- -->
 
 - Settings - Events (Repeat for each event)
   - Create Events. The "Add New Event" form has a variety of options you
@@ -144,8 +134,6 @@ groups before events, for example.
   - If allowing double-entry, configure double-entry limits after
     configuring all events.
 
-<!-- -->
-
 - Settings - Schedule
   - Create Timeslots for each day of the tournament. Usually, you will
     want a separate timeslot for each round of each event, even if the
@@ -162,8 +150,6 @@ groups before events, for example.
   - If double-flighting an event, set the number of flights on the
     schedule.
 
-<!-- -->
-
 - Settings - Sites & Rooms
   - Create a site for your tournament, and if necessary a separate site
     for your hotel (if holding elims there). Then add all your rooms to
@@ -174,15 +160,11 @@ groups before events, for example.
     Verify that you haven't schedule the same room in two different
     pools during the same timeslot.
 
-<!-- -->
-
 - Settings - Money
   - Use the C.R.E.A.M. box to scan through all your entry fees, judge
     fees, and nuisance fines. Most should already have been set during
     your judge group and event setup.
   - If offering concessions, configure t hem.
-
-<!-- -->
 
 - Settings - Website
   - Add any desired information to the standard website pages - for
@@ -379,5 +361,3 @@ groups before events, for example.
   posted, and make sure each individual round has its results set to
   "Public" on the schematic.
 - Sleep in.
-
-</div>

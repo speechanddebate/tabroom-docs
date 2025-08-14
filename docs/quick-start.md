@@ -45,7 +45,7 @@ steps.
 ## Getting Started
 
 If you want to follow along with this guide, you'll first need to
-[Request A Tournament](Request_A_Tournament "wikilink"). You'll be given
+[Request A Tournament](Request_A_Tournament). You'll be given
 the option during setup of marking the tournament as a "Test
 Tournament" - this means the tournament won't be listed on the main
 calendar, and will give you some additional options to do things like
@@ -175,7 +175,7 @@ you need for your tournament and to pay for those rooms and the use of
 Tabroom.com before your tournament begins.
 
 For more in-depth explanation of each, see the section on [General
-Settings](General_Settings "wikilink").
+Settings](General_Settings).
 
 ### Rules & Results
 
@@ -199,7 +199,7 @@ for each event or auto report NDCA qualification for its season-long
 awards in the Points & Bids tab.
 
 For more information on configuring Tiebreaks and Sweepstakes, see the
-longer section on [Rules & Results](Rules_&_Results "wikilink").
+longer section on [Rules & Results](Rules_&_Results).
 
 ### Judge Categories
 
@@ -274,7 +274,7 @@ judges like live doc links, conflict policies, and school registration
 notices.
 
 For more information, see the section on
-[Settings/Judging](Settings/Judging "wikilink").
+[Settings/Judging](Settings/Judging).
 
 ### Events
 
@@ -330,7 +330,7 @@ someone (e.g. a tab person) when the first and last ballots are in for
 each round.
 
 To learn more, see the section on setting up
-[Settings/Events](Settings/Events "wikilink").
+[Settings/Events](Settings/Events).
 
 ### Schedule
 
@@ -368,7 +368,7 @@ ballot. This is probably the single most common mistake people make when
 setting up their tournament.
 
 For a more in-depth explanation of timeslots and scheduling rounds, see
-the section on [Settings/Schedule](Settings/Schedule "wikilink").
+the section on [Settings/Schedule](Settings/Schedule).
 
 ### Sites & Rooms
 
@@ -398,7 +398,7 @@ rounds. Creating a room pool is usually as simple as giving it a name
 and then clicking on the rooms to add to each pool.
 
 For more info, see the section on [Settings/Sites &
-Rooms](Settings/Sites_&_Rooms "wikilink").
+Rooms](Settings/Sites_&_Rooms).
 
 ### Money
 
@@ -416,7 +416,7 @@ correctly - invoices will be automatically generated based on the
 numbers you enter.
 
 For more information on the different types of fees/fines, see the
-section on [Settings/Money](Settings/Money "wikilink").
+section on [Settings/Money](Settings/Money).
 
 ### Website
 
@@ -434,7 +434,7 @@ uploaded separately in **Settings - Tournament.**
 
 Whether you include additional information or customize your tournaments
 website is optional. For more information, see the section on your
-[Settings/Website](Settings/Website "wikilink").
+[Settings/Website](Settings/Website).
 
 ## Entries Tab
 
@@ -457,7 +457,7 @@ want to change a judge's committed rounds, find their info page and
 change the number.
 
 For a more detailed explanation of the options available for each entry,
-see the section on [Managing Entries](Managing_Entries "wikilink").
+see the section on [Managing Entries](Managing_Entries).
 
 ### Creating Entries & Judges
 
@@ -598,7 +598,7 @@ include availability information in the Notes field (e.g. "Not available
 round 1") instead of using time blocks correctly.
 
 For more information, see the section on [Managing
-Entries](Managing_Entries#Judge_Availability_/_Strikes "wikilink").
+Entries](Managing_Entries#Judge_Availability_/_Strikes).
 
 ### Linking Judge Accounts
 
@@ -630,7 +630,7 @@ title="register_event_roster-waitlist.png" width="600" />
 </figure>
 
 For more information, see the section on [Managing The
-Waitlist](Managing_Entries#Managing_The_Waitlist "wikilink").
+Waitlist](Managing_Entries#Managing_The_Waitlist).
 
 ### Hired Judges
 
@@ -641,7 +641,7 @@ enable a "hiring exchange" where judges can offer hired rounds and
 schools can hire them without you needing to manually match them up.
 
 For more information on enabling hired judging, see the section on
-[Managing Entries](Managing_Entries "wikilink").
+[Managing Entries](Managing_Entries).
 
 ### Invoices & Finances
 
@@ -674,7 +674,7 @@ title="register_reports_index-money.png" width="300" />
 </figure>
 
 For more information, see the section on [Managing
-Entries](Managing_Entries#Money_/_Concessions "wikilink").
+Entries](Managing_Entries#Money_/_Concessions).
 
 ### Registration
 
@@ -702,7 +702,7 @@ will then be updated on the school's page, so you can monitor who has
 arrived.
 
 For more information, see the section on [School
-Registration](Managing_Entries#School_Registration "wikilink").
+Registration](Managing_Entries#School_Registration).
 
 ## Pairing Rounds
 
@@ -724,7 +724,7 @@ everything right can save you a lot of headache down the line.
 
 The below is abbreviated - for a more complete discussion of the options
 available, see the section on [Pairing
-Rounds](Pairing_Rounds "wikilink").
+Rounds](Pairing_Rounds).
 
 ### Paneling Tab (aka Pairing IE's)
 
@@ -949,7 +949,7 @@ Once you're done entering all the ballots for a round (usually,
 double-entering), you can proceed to pairing the next debate.
 
 For a more in-depth discussion of how to enter ballots, see the section
-on [Tabbing](Tabbing "wikilink").
+on [Tabbing](Tabbing).
 
 ### Event Status
 
