@@ -1,5 +1,6 @@
 ---
-title: "Judge Groups"
+title: Judge Groups
+slug: judge-groups
 ---
 
 <img src="/screenshots/tabs_settings_judges.png" title="tabs_settings_judges.png" /> A "Judge Group"
