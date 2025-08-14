@@ -53,9 +53,21 @@ This is the documentation website for Tabroom.com, built with Docusaurus 3.8.1. 
 
 ### Content Structure
 - **index.md**: Main help center landing page with navigation to all features
-- **account/**: User account management documentation
-- **FAQ and quick-start guides**: Located in root docs directory
-- Documentation covers all major Tabroom features: tournaments, registration, judging, results
+- **Numbered category structure**: Docs organized in numbered folders (1-overview, 2-quick-start, etc.) with automatic sidebar generation
+- **Category organization**:
+  - `1-overview/`: FAQ and videos
+  - `2-quick-start/`: Tournament setup guides and checklists
+  - `3-account/`: User account management (students, coaches, judges)
+  - `4-administration/`: School admin, registration, circuit management
+  - `5-settings/`: Tournament configuration (judging, events, schedule, money, etc.)
+  - `6-entries/`: Entry management, judges, reports, data
+  - `7-paneling/`: Round paneling, room assignment, judge management
+  - `8-schematics/`: Tournament schematics and pairings
+  - `9-results/`: Result display, reporting, web publishing
+  - `10-public/`: Public-facing features (calendars, results, paradigms)
+  - `11-online/`: Online tournament features (NSDA Campus, async events)
+- **_deprecated/**: Contains older documentation files that may need cleanup
+- Each category has a `_category_.json` file for Docusaurus sidebar configuration
 
 ### Deployment Target
 - Hosted at docs.tabroom.com
@@ -68,3 +80,16 @@ This is the documentation website for Tabroom.com, built with Docusaurus 3.8.1. 
 - Extensive use of screenshots for visual documentation
 - Content focuses on speech and debate tournament management
 - No custom React components currently in use - relies on standard Docusaurus features
+- Documentation follows numbered category structure with prefix-based ordering
+- Screenshots stored in `static/screenshots/` and referenced as `/screenshots/filename.png`
+- Internal links use kebab-case format matching file structure
+
+## Content Migration Guidelines
+
+When migrating documentation from other formats:
+- Use kebab-case filenames (e.g., `school-administration.md`)
+- Add Docusaurus frontmatter with title metadata
+- Update image paths to use `/screenshots/` prefix
+- Convert internal links to match new file structure
+- Remove MediaWiki-specific syntax (figure/figcaption, category links, etc.)
+- Place files in appropriate numbered category folders
