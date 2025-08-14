@@ -55,7 +55,7 @@ refunds or credits available for unused rooms.
 
 ## Configuring an Event as Online via NSDA Campus
 
-[Once an event has been created](events) an online tab will
+[Once an event has been created](/settings/events) an online tab will
 appear.
 
 <img src="/screenshots/V1.png" title="V1.png" width="550" />
@@ -238,7 +238,7 @@ NSDA Campus rooms.
 Remember—The NSDA Campus rooms have to be purchased in advance and
 assigned to the correct day of your tournament. [Detailed Instructions
 for Setting Up Asynchronous Speech Judging in
-Tabroom.com](running-asynchronous-recorded-events)
+Tabroom.com](/online/running-async-events)
 
 ## Live Streaming Options
 

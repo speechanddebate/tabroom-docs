@@ -8,7 +8,7 @@ your school's account, maintain your student roster, register for
 tournaments, and view school-wide results.
 
 If you just want to know how to register for a tournament, see the
-section on [Registration](registration).
+section on [Registration](/account/registration).
 
 When your Tabroom account is linked as the administrator for a school,
 you will see a set of tabs when you log-in that correspond to the main

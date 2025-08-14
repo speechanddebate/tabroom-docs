@@ -298,7 +298,7 @@ assignments.
 If you want to divide schools into "regions" for the purposes of pairing
 or judge assignments, you must first enable them in the Tournament
 Settings. For more information, see the section on [General
-Settings](general-settings). You also need to toggle the box
+Settings](/settings/tournament). You also need to toggle the box
 in **Settings - Events - Event - Pairing/Sectioning** for "Avoid
 in-region matchups in presets," or assigning regions won't do anything.
 

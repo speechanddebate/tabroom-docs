@@ -127,7 +127,7 @@ registration is open, you will see a "Register" tab for the tournament:
 title="index_tourn_index-register.png" width="600" />
 
 For more information, see the section on [how to
-register](registration).
+register](/administration/registration).
 
 ## Additional Info
 
