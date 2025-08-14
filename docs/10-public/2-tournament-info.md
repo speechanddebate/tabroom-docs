@@ -9,7 +9,7 @@ etc.
 
 First, you must access the tournament you're interested in. This is
 usually done by clicking the name of the tournament from one of the
-[calendars](/calendars), whether the main calendar on the
+[calendars](calendars), whether the main calendar on the
 homepage, a circuit-specific calendar, or your personalized calendar of
 upcoming tournaments visible when you first log in to your account.
 
@@ -74,7 +74,7 @@ title="index_tourn_postings_round.png" width="600" />
 
 From the pairing, you can click any entry's name to be taken to their
 complete record at that tournament, where you can also sign up for [live
-updates](/live-updates) for that team:
+updates](live-updates) for that team:
 
 <img src="/screenshots/index_tourn_postings_entry-record.png"
 title="index_tourn_postings_entry-record.png" width="600" />
@@ -96,7 +96,7 @@ Clicking on a judge will take you to their judge record for the
 tournament. You can also access a judge's record by clicking their name
 directly from the pairing. From this page, you can see how they've
 voted, along with links to their full judging record and the option to
-follow them for [live updates](/live-updates):
+follow them for [live updates](live-updates):
 
 <img src="/screenshots/index_tourn_postings_judge.png"
 title="index_tourn_postings_judge.png" width="500" />
@@ -109,14 +109,14 @@ title="index_tourn_postings_judge-updates.png" width="400" />
 The Live Updates tab will show you anyone at the tournament you are
 currently following, with options to add additional entries or judges,
 or stop updates altogether. For additional information, see the section
-on [live updates](/live-updates).
+on [live updates](live-updates).
 
 ## Results
 
 The Results tab contains links for results from each event and round,
 and is usually updated more or less in real time as the tournament
 progresses. For more information, see the section on [public
-results](/public-results).
+results](public-results).
 
 ## Register
 
@@ -127,7 +127,7 @@ registration is open, you will see a "Register" tab for the tournament:
 title="index_tourn_index-register.png" width="600" />
 
 For more information, see the section on [how to
-register](/registration).
+register](registration).
 
 ## Additional Info
 

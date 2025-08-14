@@ -25,9 +25,9 @@ For first-time Tabroom users, check out these sections of the manual:
 
 [How To Register For A Tournament](administration/registration)
 
-[Tournament Quick Start](overview/quick-start)
+[Tournament Quick Start](quick-start/quick-start)
 
-[Tournament Checklist](overview/checklist)
+[Tournament Checklist](quick-start/checklist)
 
 [Enabling Web Push Notifications to replace Text
 Blasts](https://docs.google.com/document/d/12jVaG0oITTU2gsOwMc3Fs5TY0GUCC0ekq5RsLD0EPjI)

@@ -11,7 +11,7 @@ such as bid tracking or membership dues.
 
 This section of the manual is designed for circuit administrators - it's
 not relevant for most users. If you want to learn how to join a circuit,
-see the section on [School Administration](/school-administration) instead.
+see the section on [School Administration](school-administration) instead.
 
 If your account is listed as a circuit administrator, then you will see
 a list of circuits on the sidebar of your account dashboard:

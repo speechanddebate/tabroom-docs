@@ -383,7 +383,7 @@ If you have any additional questions, please email
 ## Quick Links
 
 - [Information about online coin
-  flips](events#online-coin-flips)
+  flips](/settings/events#online-coin-flips)
 - [NSDA Harassment and Discrimination
   Policy](https://www.speechanddebate.org/harassment-discrimination-policy/)
 - [Judge Training
@@ -391,7 +391,7 @@ If you have any additional questions, please email
 - [Purchase Trophies and/or Extemp
   Questions](https://www.speechanddebate.org/tournament-services/)
 - [Detailed Instructions for Setting Up Asynchronous Speech Judging in
-  Tabroom.com](running-asynchronous-recorded-events)
+  Tabroom.com](running-async-events)
 
 ## Need Support
 

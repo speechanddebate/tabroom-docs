@@ -127,7 +127,7 @@ active/deactivate judges in the judge group all in one place.
 The Judges menu option is also where you configure Judge Pools for all
 events, including Debate events. For more information on judge pools,
 see the section of the manual on [Judge
-Groups](judge-groups).
+Groups](/settings/judging).
 
 ### Assign Speech Rooms
 
@@ -147,7 +147,7 @@ width="300" />
 
 The **Paneling - Rooms** menu option is also where you configure Room
 Pools. For more information on setting up Room Pools, see the section of
-the manual on [Sites & Rooms](sites-and-rooms).
+the manual on [Sites & Rooms](/settings/sites-and-rooms).
 
 Once you've assigned rooms, there are a few other helpful tabs with room
 information. The "Chart" tab will show you which rounds are assigned to

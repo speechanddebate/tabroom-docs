@@ -9,7 +9,7 @@ This is a guide for District Chairs to post the results of their
 District Tournament Series as they are completed, and do district-wide
 registrations to Nationals. If you are a coach looking to register your
 school, consult the [Nationals
-Registration](/nationals-registration) page.
+Registration](nationals-registration) page.
 
 ### Posting your results from Tabroom.com
 

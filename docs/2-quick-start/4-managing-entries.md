@@ -54,7 +54,7 @@ width="300" />
 School's will be listed as "Not Checked In" until they are marked as
 Registered (that is, on site at the tournament), either by you or by the
 school (if using "On-Site" registration - see the section on [General
-Settings](general-settings) for more info). Once they are
+Settings](/settings/tournament) for more info). Once they are
 registered at the tournament, they will be in the "Checked In" menu
 instead.
 
@@ -561,7 +561,7 @@ as needing ADA accommodations.
 Before you can assign seeds to each team for use in pairing preset
 rounds, you must first set a preset seeding method in your Event
 Settings, in **Settings - Events - Event - Pairing.** For more
-information, see the section on [Events](events).
+information, see the section on [Events](/settings/events).
 
 Make sure to choose a pairing method that corresponds to the number of
 seed categories and presets you use. For example, if you choose "Hit All
@@ -805,7 +805,7 @@ enable a "hiring exchange" where judges can offer hired rounds and
 schools can hire them without you needing to manually match them up.
 
 For more information on enabling hired judging, see the section on
-[Judge Groups](judge-groups).
+[Judge Groups](/settings/judging).
 
 #### Hired Judging Requests
 

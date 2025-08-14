@@ -122,7 +122,7 @@ ballot.
 
 ## Updating Your Paradigm
 
-See the section on [paradigms](paradigms) for information on
+See the section on [paradigms](/public/paradigms) for information on
 how to upload/update your paradigm.
 
 ## Entering Conflicts

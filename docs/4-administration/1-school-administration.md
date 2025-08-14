@@ -360,7 +360,7 @@ page as for your student roster.
 In order to register for a tournament, you must first join the
 appropriate "circuit." All tournaments on tabroom must be part of a
 "circuit" - to find out which circuit the tournament you're interested
-in is a part of, look on the main [Calendar](calendars).
+in is a part of, look on the main [Calendar](/public/calendars).
 
 Then, use the "Circuits" tab to join the circuit:
 

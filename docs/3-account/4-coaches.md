@@ -8,7 +8,7 @@ your school's account, maintain your student roster, register for
 tournaments, and view school-wide results.
 
 If you just want to know how to register for a tournament, see the
-section on [Registration](/registration).
+section on [Registration](registration).
 
 When your Tabroom account is linked as the administrator for a school,
 you will see a set of tabs when you log-in that correspond to the main
@@ -466,7 +466,7 @@ page as for your student roster.
 In order to register for a tournament, you must first join the
 appropriate "circuit." All tournaments on tabroom must be part of a
 "circuit" - to find out which circuit the tournament you're interested
-in is a part of, look on the main [Calendar](/calendars).
+in is a part of, look on the main [Calendar](/public/calendars).
 
 Then, use the "Circuits" tab to join the circuit:
 
