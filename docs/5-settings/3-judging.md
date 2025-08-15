@@ -379,6 +379,102 @@ judges who can be rated as strikes by an entry.
 judges in the top tier and less in lower tiers as long as tier rankings
 are cumulative to the total required.
 
+### MPJ Placement Weights
+
+This section controls the "weights" used to compute mutually preferred
+judging scores. For example, it allows you to control whether the judge
+placement algorithm privileges "mutuality" more than "preference" or how
+important it is to try and "save" committed judges for later rounds.
+
+<img src="/screenshots/setup_judges_tabbing-mpj.png"
+title="setup_judges_tabbing-mpj.png" width="400" />
+
+These numbers are not "percentages," per se - they don't need to sum up
+to 100. Instead, they are "weighting factors" which are relative to one
+another.
+
+The following explanation is somewhat technical - if you're not sure how
+to assign or tweak the MPJ weights, you can just use the default values.
+
+The way MPJ works is by testing out each judge in each round, and
+computing a "score" for how well that judge fits. Tabroom will then try
+and find the mix of judges that gives the overall "best" combined score
+across all debates.
+
+For each round/judge pair, the "score" is computed as the sum of: 1) The
+difference in mutuality (e.g. in a tiered system a 2-2 = 0, a 1-2 = 1,
+etc., for ordinals, a 46-38 = 8, a 23-28 = 5, etc), multiplied by the
+"Penalize non-mutual matches" weight. 2) The total preference (e..g a
+1-1 = 2, 2-2 = 4, or with ordinals, a 25-35 = 60), multiplied by the
+"Penalize low-preferred matches" weight. 3) The likelihood a round of
+commitment will be lost, raised to the power of the "Avoid burning
+commitments early" weight. Note that this is an exponent, not a simple
+multiplication, so this number will likely be much lower than the other
+weights. 4) The average pref of the judge for all entries, minus the
+standard deviation of their pref from the average pref of the judge
+group, multiplied by the "Prefer hard-to-place judges" weight. 5) If in
+use, adds the "Promote use of diverse judging" weight for "diverse"
+judges. 6) If used, will increase the score for a Hired judge by the
+"Prefer hired judges over obligated" weight.
+
+Put in terms of the options on the page:
+
+**Penalize non-mutual matches** - This weight gets multiplied by the
+difference in mutuality between the two team's rating for the judge
+
+**Penalize low-preferred matches** - This weight gets multiplied by the
+total preference, i.e. the sum of the two team's rating for the judge
+
+**Avoid burning commitments early** - The likelihood a round of
+commitment will be lost by placing a judge is raised to this power. Note
+that this is an exponent, not a simple multiplication, so this number
+will likely be much lower than the other weights.
+
+**Prefer hard-to-place judges** - This weight is multiplied by the
+average pref of the judge, minus the standard deviation of their pref
+from the average pref of the judge group.
+
+**Promote use of diverse judging** - This weight control how important
+the use of "diverse" judges is in the final score.
+
+**Prefer hired judges over obligated** - This weight is added to hired
+judges to make it more likely they will be placed than
+
+**Stand-in rating for non-preffed judges:** - This is not a "weight"
+used in the MPJ algorithim, but instead is the value used for judges who
+were not given a pref by a team. For example, if a team only filled out
+a partial pref sheet, you could choose whether you wanted unranked
+judges to be a "1" or some other number.
+
+The built-in defaults should work fine for most situations. If you're so
+inclined, Palmer has this to say about his usual personal defaults for
+tiered MPJ systems:
+
+- Penalize non-mutual matches = 65
+- Penalize low-preferred matches = 20
+- Avoid burning commitments early = 5 (8 if in a very tight judging
+  situation)
+- Prefer hard-to-place judges = 10
+
+For ordinal preference systems, the following weights work well:
+
+- Penalize non-mutual matches = 25
+- Penalize low-preferred matches = 10
+- Avoid burning commitments early = 7 (8 if in a very tight judging
+  situation)
+- Prefer hard-to-place judges = 10
+
+If you wonder at some point why it placed judge X instead of judge Y,
+you can look at an individual round (by clicking on the room number on
+the schematic), and then click "Judge Pref Report" on the sidebar. This
+will show you the judge score for all available judges in the debate, so
+you can see how you could change the weights to achieve a different
+goal.
+
+For example, if you were getting a lot of 3-3 pref matchups, and would
+prefer more 1-2's (i.e. increase pref at the expense of mutuality), you
+could turn down the "Penalize non-mutual matches" score to 50.
+
 ### Other Ratings
 
 <img src="/screenshots/Settings_-_Judges_-_Ratings-_Other_Ratings.png" title="Settings_-_Judges_-_Ratings-_Other_Ratings.png" />

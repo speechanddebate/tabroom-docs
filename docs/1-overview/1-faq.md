@@ -117,7 +117,7 @@ Application account, then either import new students from your NSDA
 roster, or link up existing students. You'll use the "NSDA Points"
 section of the sidebar from your Student Roster. For more information,
 see [School
-Administration](/administration/school-administration#Linking_to_your_NSDA_Roster).
+Administration](/administration/school-administration).
 
 ## Results
 
@@ -302,7 +302,7 @@ Published to "On."
 ##### What do the MPJ Placement Weights mean?
 
 For a full explanation, see the section on [MPJ Placement
-Weights](/settings/judging#MPJ_Placement_Weights).
+Weights](/settings/judging).
 
 ### Can I use leftover judges from one judge group in an event assigned to a different judge group, such as using leftover Varsity judges in a separate JV judge group?
 

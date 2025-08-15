@@ -552,7 +552,7 @@ include availability information in the Notes field (e.g. "Not available
 round 1") instead of using time blocks correctly.
 
 For more information, see the section on [Managing
-Entries](managing-entries#Judge_Availability_/_Strikes).
+Entries](managing-entries).
 
 ### Linking Judge Accounts
 
@@ -582,7 +582,7 @@ notify coaches):
 title="register_event_roster-waitlist.png" width="600" />
 
 For more information, see the section on [Managing The
-Waitlist](managing-entries#Managing_The_Waitlist).
+Waitlist](managing-entries).
 
 ### Hired Judges
 
@@ -620,7 +620,7 @@ then the "Finances/Concessions" section of the sidebar:
 title="register_reports_index-money.png" width="300" />
 
 For more information, see the section on [Managing
-Entries](managing-entries#Money_/_Concessions).
+Entries](managing-entries).
 
 ### Registration
 
@@ -645,7 +645,7 @@ will then be updated on the school's page, so you can monitor who has
 arrived.
 
 For more information, see the section on [School
-Registration](managing-entries#School_Registration).
+Registration](managing-entries).
 
 ## Pairing Rounds
 

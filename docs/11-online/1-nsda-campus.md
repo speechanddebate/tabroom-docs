@@ -382,8 +382,6 @@ If you have any additional questions, please email
 
 ## Quick Links
 
-- [Information about online coin
-  flips](/settings/events#online-coin-flips)
 - [NSDA Harassment and Discrimination
   Policy](https://www.speechanddebate.org/harassment-discrimination-policy/)
 - [Judge Training
