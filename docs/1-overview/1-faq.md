@@ -78,9 +78,7 @@ does have to be done by a site administrator.
 
 ### I accidentally retired one of my students on my competitor’s roster. How do I reverse this issue?
 
-Go to the Retired roster (Red circle with a slash) and find the
-accidentally retired student; you can then change the Retired switch
-back to "off" here.
+Go to the Retired roster and use the dropdown menu for Current/Graduates.
 
 ## Registration
 
