@@ -2,8 +2,7 @@ backend:
   name: github
   repo: speechanddebate/tabroom-docs
   branch: main
-  site_domain: sleepy-brahmagupta-750e3c.netlify.com
-
+  base_url: https://sveltia-cms-auth.deathstar-7b5.workers.dev
 media_folder: "static/screenshots" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/screenshots/" # The src attribute for uploaded media will begin with /images/uploads
 
